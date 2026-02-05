@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-weight: 25px;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    font-size: medium;
+}
