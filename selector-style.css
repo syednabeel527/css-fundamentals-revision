@@ -32,3 +32,11 @@ p+h3{
 .upvote + button {
     background-color: cornflowerblue;
 }
+
+input[type=text] {
+    color: red;
+}
+
+input[type=password]{
+    color: green;
+}
