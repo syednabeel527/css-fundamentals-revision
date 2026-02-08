@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#main-title{
+    text-align: center;
+    color: gold;
+    margin-bottom: 20px;
+}
+
+.container{
+    border: 2px solid black;
+    padding: auto;
+}
+
+.highlight{
+    color:blue;
+}
+
+.box > p{
+    font-style: italic;
+    color: green;
+}
+.box+p{
+    color:tan;
+    font-weight: bold;
+}
