@@ -24,3 +24,7 @@ p a{
 nav ul li {
     color: pink;
 }
+
+p+h3{
+    text-decoration: underline;
+}
