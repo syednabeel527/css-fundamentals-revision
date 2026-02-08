@@ -28,3 +28,7 @@ nav ul li {
 p+h3{
     text-decoration: underline;
 }
+
+.upvote + button {
+    background-color: cornflowerblue;
+}
