@@ -25,6 +25,7 @@ nav ul li {
     color: pink;
 }
 
+/*Sibling combinator*/
 p+h3{
     text-decoration: underline;
 }
@@ -39,4 +40,17 @@ input[type=text] {
 
 input[type=password]{
     color: green;
+}
+
+#login:hover{
+    background-color: blanchedalmond;
+}
+
+#signup:hover{
+    background-color: green;
+}
+
+h3:hover{
+    background-color: pink;
+    color: peru;
 }
