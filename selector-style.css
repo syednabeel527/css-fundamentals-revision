@@ -62,3 +62,8 @@ button:active{
 p:active {
     font-size: large;
 }
+
+input[type="radio"]:checked + label{
+    color: red;
+    font-size: larger;
+}
