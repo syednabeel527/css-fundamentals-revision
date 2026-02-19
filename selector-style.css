@@ -54,3 +54,11 @@ h3:hover{
     background-color: pink;
     color: peru;
 }
+
+button:active{
+    background-color: darkblue;
+}
+
+p:active {
+    font-size: large;
+}
